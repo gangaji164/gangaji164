@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ganga Gupta</h1>
-<h3 align="center">[![Alt text](https://github.com/gangaji164/Portfolio.github.io/blob/main/Screenshot%202025-09-09%20221558.png)](https://gangaji164.github.io/Portfolio.github.io/)</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangaji164&label=Profile%20views&color=0e75b6&style=flat" alt="gangaji164" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangaji164" alt="gangaji164" /></a> </p>
