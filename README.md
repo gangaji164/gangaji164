@@ -1,5 +1,5 @@
-<h1 align="center">[![Visit My Portfolio](https://github.com/gangaji164/gangaji164/blob/16aeac455127744976d638017201d1f7590a08dc/port.png)](https://gangaji164.github.io/Portfolio.github.io/)
-</h1>
+[![logo](https://github.com/gangaji164/gangaji164/blob/main/Screenshot%202025-09-09%20224522.png)](https://gangaji164.github.io/Portfolio.github.io/)
+<h1 align="center">Hello! I am Ganga Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangaji164&label=Profile%20views&color=0e75b6&style=flat" alt="gangaji164" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangaji164" alt="gangaji164" /></a> </p>
