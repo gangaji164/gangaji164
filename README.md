@@ -1,4 +1,5 @@
 [![logo](https://github.com/gangaji164/gangaji164/blob/main/Screenshot%202025-09-09%20224522.png)](https://gangaji164.github.io/Portfolio.github.io/)
+[Visit My Portfolio](https://gangaji164.github.io/)
 <h1 align="center">Hello! I am Ganga Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangaji164&label=Profile%20views&color=0e75b6&style=flat" alt="gangaji164" /> </p>
 
