@@ -1,4 +1,4 @@
-[![logo](https://github.com/gangaji164/gangaji164/blob/main/Screenshot%202025-09-09%20224522.png)](https://gangaji164.github.io/Portfolio.github.io/)
+[![logo](https://github.com/gangaji164/gangaji164/blob/main/Screenshot%202025-09-25%20154651.png)](https://gangaji164.github.io/Portfolio.github.io/)
 [Visit My Portfolio](https://gangaji164.github.io/)
 <h1 align="center">Ganga Gupta</h1>
 
